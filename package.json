@@ -4,7 +4,8 @@
   "description": "nodeschool.io solutions.",
   "main": "1.js",
   "dependencies": {
-    "strftime": "^0.9.2"
+    "strftime": "^0.9.2",
+    "through2-map": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
